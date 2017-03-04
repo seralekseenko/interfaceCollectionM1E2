@@ -1,5 +1,6 @@
-package collection;
+package collections;
 
+import collection.ArrayCollection;
 import org.junit.Test;
 
 import java.util.Collection;
